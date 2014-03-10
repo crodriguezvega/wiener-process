@@ -17,9 +17,9 @@ For example:
 w = wprocess(2048, 1000);
 ```
 
-Th2 number of samples in the path must a power of 2. The higher the numer of iterations, the more accurate the output Wiener process sample path.
+The number of samples in the path must be a power of 2. The higher the numer of iterations, the more accurate the output Wiener process sample path will be.
 
-Now it is possible plot the sample path:
+Now it is possible to plot the sample path:
 
 ```matlab
 x = linspace(0, 1, 2048);

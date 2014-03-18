@@ -25,4 +25,4 @@ Now it is possible to plot the sample path:
 x = linspace(0, 1, 2048);
 plot(x, w);
 ```
-![Alt text](/wiener.png "Wiener process sample path")
+![Alt text](/sample/wiener.png "Wiener process sample path")

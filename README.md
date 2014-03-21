@@ -1,7 +1,7 @@
 Wiener process construction in Matlab
 =====================================
 
-Matlab function that lets you generate sample paths of a Wiener process in the interval [0, 1] using the wavelet method.
+Matlab function that lets you generate sample paths of a [Wiener process](http://en.wikipedia.org/wiki/Wiener_process, "Wikipedia entry for Wiener process") in the interval [0, 1] using the wavelet method.
 
 Usage
 =====

@@ -17,7 +17,8 @@ end
 if any(sm <= 0 | st <=0) 
   error('wprocess:invalidInputs', 'Enter SM, and ST > 0.');
 end
-[f, e]=log2(sm);
+
+[f, e] = log2(sm);
 if f ~= 0.5
   error('wprocess:invalidInputs', 'Value of SM must be a power of 2.');
 end 
